@@ -1,0 +1,23 @@
+{
+  "name": "array-utilities-package",
+  "version": "1.0.1",
+  "description": "this is an npm package used to perform numerous operations on an array such as sort, remove duplicates, minimum, maximum etc.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MuneerHashmat/array-utilities-npm-package.git"
+  },
+  "keywords": [
+    "array",
+    "utility"
+  ],
+  "author": "muneerhashmat",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MuneerHashmat/array-utilities-npm-package/issues"
+  },
+  "homepage": "https://github.com/MuneerHashmat/array-utilities-npm-package#readme"
+}
